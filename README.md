@@ -1,7 +1,9 @@
 # AP_String99_Session3
 
 
-![alt text](https://github.com/SinaElahimanesh/AP_String99_Session3/blob/master/uml.png?raw=true)
+![alt text](https://github.com/SinaElahimanesh/AP_String99_Session3/blob/master/syllabus1.png?raw=true)
+
+![alt text](https://github.com/SinaElahimanesh/AP_String99_Session3/blob/master/syllabus2.png?raw=true)
 
 MVC Link:
 
